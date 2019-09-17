@@ -1,0 +1,20 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "DateozApp",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "jiraData",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20190917044731",
+    "dto": "mapstruct",
+    "searchEngine": false,
+    "service": "serviceImpl",
+    "entityTableName": "jira_app",
+    "databaseType": "sql",
+    "jpaMetamodelFiltering": true,
+    "pagination": "pagination",
+    "microserviceName": "DateozApp"
+}
